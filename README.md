@@ -1,11 +1,11 @@
-# 🎉 Event Management GUI (Java)
+#  Event Management GUI (Java)
 
 A Java Swing-based desktop application developed collaboratively by our team to manage events and participants efficiently.
 This project demonstrates teamwork, GUI design, and application development using Java.
 
 ---
 
-## 👥 Team Project
+##  Team Project
 
 This project was built as a collaborative effort with my teammates, where we worked together on:
 
@@ -15,17 +15,17 @@ This project was built as a collaborative effort with my teammates, where we wor
 
 ---
 
-## 🚀 Features
+##  Features
 
-* ➕ Add new events
-* 📋 View all events
-* 🔍 Search and filter events
-* 👥 Manage participants
-* 🖥️ User-friendly GUI using Java Swing
+*  Add new events
+*  View all events
+*  Search and filter events
+*  Manage participants
+*  User-friendly GUI using Java Swing
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 * **Language:** Java
 * **GUI Framework:** Swing
@@ -34,14 +34,14 @@ This project was built as a collaborative effort with my teammates, where we wor
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 Event Management GUI/
 │── EventManagementGUI.java
 
 ---
 
-## ▶️ How to Run
+##  How to Run
 
 1. Open terminal in the project folder
 
@@ -59,7 +59,7 @@ Event Management GUI/
 
 ---
 
-## 📸 Screenshots
+##  Screenshots
 
 <img width="782" height="495" alt="Screenshot 1" src="https://github.com/user-attachments/assets/29733350-9a3c-49c7-be5d-90a5c89ab207" />
 
@@ -67,7 +67,7 @@ Event Management GUI/
 
 ---
 
-## 💡 Future Improvements
+##  Future Improvements
 
 * Add database integration (MySQL)
 * Improve UI design (modern look)
@@ -76,7 +76,7 @@ Event Management GUI/
 
 ---
 
-## 👩‍💻 Team Members
+##  Team Members
 
 * Srishti Mishra
 * Narottam Kumar
